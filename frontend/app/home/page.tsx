@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>homereee</p>;
+  return <p>Página Principal, Dashboards</p>;
 }
