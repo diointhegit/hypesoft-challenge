@@ -1,0 +1,42 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: hypesoft-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  api:
+    build:
+      context: ./backend
+    container_name: hypesoft-api
+    ports:
+      - "5000:8080"
+    depends_on:
+      - mongo
+    environment:
+      MongoDb__ConnectionString: mongodb://mongo:27017
+      MongoDb__Database: hypesoft
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: hypesoft-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:25.0
+    container_name: hypesoft-keycloak
+    command: start-dev
+    ports:
+      - "8080:8080"
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: admin
+      KC_BOOTSTRAP_ADMIN_PASSWORD: admin
+
+volumes:
+  mongo_data:

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qqm6Oo20gxI=",
+  "dgSpecHash": "ODZKT8fi3ms=",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Profissionais\\Hypesoft\\backend\\src\\Hypesoft.Domain\\Hypesoft.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projetos\\Profissionais\\hypesoft-challenge\\backend\\src\\Hypesoft.Domain\\Hypesoft.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dio\\.nuget\\packages\\mongodb.bson\\3.6.0\\mongodb.bson.3.6.0.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

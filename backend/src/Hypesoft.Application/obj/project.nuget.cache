@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "sbNHIxOV5d8=",
+  "dgSpecHash": "/UZcjmFUbR4=",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Profissionais\\Hypesoft\\backend\\src\\Hypesoft.Application\\Hypesoft.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projetos\\Profissionais\\hypesoft-challenge\\backend\\src\\Hypesoft.Application\\Hypesoft.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dio\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\mongodb.bson\\3.6.0\\mongodb.bson.3.6.0.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Dio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

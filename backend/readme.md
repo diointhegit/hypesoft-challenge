@@ -1,3 +1,4 @@
-#
+### to run
 
-# run: dotnet run --project src/Hypesoft.API
+`cd src/Hypesoft.API \n
+dotnet watch run`

@@ -1,0 +1,13 @@
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\bin\Debug\net9.0\Hypesoft.Domain.deps.json
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\bin\Debug\net9.0\Hypesoft.Domain.dll
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\bin\Debug\net9.0\Hypesoft.Domain.pdb
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.AssemblyInfoInputs.cache
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.AssemblyInfo.cs
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.sourcelink.json
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.dll
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\refint\Hypesoft.Domain.dll
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.pdb
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\ref\Hypesoft.Domain.dll
+D:\Projetos\Profissionais\hypesoft-challenge\backend\src\Hypesoft.Domain\obj\Debug\net9.0\Hypesoft.Domain.csproj.AssemblyReference.cache
