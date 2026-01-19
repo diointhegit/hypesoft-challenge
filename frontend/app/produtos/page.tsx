@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      <p>oii</p>
+      <p>Página Produto</p>
     </div>
   );
 }
