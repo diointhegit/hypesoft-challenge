@@ -72,3 +72,10 @@ Esses pontos ficaram planejados para uma próxima etapa de desenvolvimento.
 4. Antes de qualquer teste, abra outro terminal na pasta raiz desse repositório
 5. Rode o mongodb com
    docker compose up mongo
+
+
+### Front-end
+Apesar de incompleto, o front end está disponível com seu esqueleto usando os seguintes comandos na pasta raiz do projeto
+1. cd frontend
+2. npm install
+3. npm run dev
